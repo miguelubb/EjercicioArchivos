@@ -1,0 +1,8 @@
+
+                Promedio
+                --------
+ N°    Nombre Estudiante Promedio 
+  1           Juan Jopia     6.83 
+  2           Diego Daza     6.33 
+  3             Ana Aedo     5.40 
+         Promedio curso:     6.29 
